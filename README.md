@@ -3,8 +3,11 @@ My personal website showcasing my portfolio projects, skills, and certifications
 
 Personal Website Structure
 1. Home
+
 -Name
+
 -Short introduction
+
 -Current focus or goal
 
 2. About
